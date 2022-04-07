@@ -1,6 +1,8 @@
-![Rich Address Wallet List](https://raw.githubusercontent.com/Pymmdrza/Rich-Address-Wallet/main/richwallet1.png)
-
 # Ethereum Rich Private Key Wallet Finder
+
+----
+
+![Rich Address Wallet List](https://raw.githubusercontent.com/Pymmdrza/Rich-Address-Wallet/main/richwallet1.png)
 
 PrivateKey Finder All Rich Address wallet Ethereum By HDWAllet and [RichWalletList](https://github.com/Pymmdrza/Rich-Address-Wallet)
 ---
