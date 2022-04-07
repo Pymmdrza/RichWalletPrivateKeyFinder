@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+![Rich Address Wallet List](https://raw.githubusercontent.com/Pymmdrza/Rich-Address-Wallet/main/richwallet1.png)
 
-You can use the [editor on GitHub](https://github.com/Pymmdrza/RichWalletPrivateKeyFinder/edit/mainx/docs/index.md) to maintain and preview the content for your website in Markdown files.
+# Ethereum Rich Private Key Wallet Finder
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+PrivateKey Finder All Rich Address wallet Ethereum By HDWAllet and [RichWalletList](https://github.com/Pymmdrza/Rich-Address-Wallet)
+---
+![Ethereum Private Key Rich Wallet Finder](https://raw.githubusercontent.com/Pymmdrza/RichWalletPrivateKeyFinder/mainx/ScreenEtherRich1.jpg)
+---
+First Install This Package's :
+```
+pip install hdwallet
+pip install colorama
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Pymmdrza/RichWalletPrivateKeyFinder/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+After install Run Program With This Common On Terminal or Consol (`richeth.py`)
+```
+python richeth.py
+```
+Linux :
+```
+python3 richeth.py
+```
+* Use Rich Wallet List ethereum file `/RichWalletAddress_ETH.txt` imported here 12k address rich wallet ethereum [12000](https://github.com/Pymmdrza/RichWalletPrivateKeyFinder/blob/mainx/RichWalletAddress_ETH.txt)
