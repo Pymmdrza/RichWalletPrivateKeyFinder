@@ -8,14 +8,7 @@ def mHash():
 
 
 def mhex128():
-    """
-    @deprecated:
-        Generated random hash without repetition (default size: 128).
-    =========
-    @return str:
-    =========
-
-    """
+    """ Generated random hash without repetition (default size: 128). """
     return ''.join(c('0123456789abcdef') for _ in range(128))
 
 
