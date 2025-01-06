@@ -10,8 +10,7 @@ PrivateKey Finder All Rich Address wallet Ethereum By HDWAllet and [RichWalletLi
 ---
 First Install This Package's :
 ```
-pip install hdwallet
-pip install colorama
+pip install cryptofuzz colorama
 ```
 
 After install Run Program With This Common On Terminal or Consol (`richeth.py`)
